@@ -1,10 +1,10 @@
 {
-    "title": "SB Admin 2",
-    "name": "startbootstrap-sb-admin-2",
+    "title": "SWC TestWeb",
+    "name": "swc-web-gui-1",
     "version": "4.1.1",
     "scripts": {
         "start": "node_modules/.bin/gulp watch",
-        "build": "next build && next export"
+        "build": "build:azure"
     },
     "description": "An open source Bootstrap 4 admin theme.",
     "keywords": [
